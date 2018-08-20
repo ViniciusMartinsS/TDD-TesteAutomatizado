@@ -78,9 +78,10 @@ describe('Vai executar funções assíncronas', () => {
             }
         }
        const resultado =  await convertendoParaPromise();
-        deepEqual(resultado, expected);
+        deepEqual(null, expected);
     })
 })
 
 
 //Alteramos o package.json para rodar o script do mocha quando rodar o comando de teste npm teste
+//no codeship.com em setup commands adicionamos o mocha global: npm install -g mocha
