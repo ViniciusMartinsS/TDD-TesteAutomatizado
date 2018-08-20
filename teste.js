@@ -78,7 +78,7 @@ describe('Vai executar funções assíncronas', () => {
             }
         }
        const resultado =  await convertendoParaPromise();
-        deepEqual(null, expected);
+        deepEqual(resultado, expected);
     })
 })
 

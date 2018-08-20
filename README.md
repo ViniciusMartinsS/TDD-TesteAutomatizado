@@ -1,0 +1,1 @@
+[ ![Codeship Status for ViniciusMartinsS/TDD-TesteAutomatizado](https://app.codeship.com/projects/f091f6f0-86d2-0136-ef48-72ce9ef43696/status?branch=master)](https://app.codeship.com/projects/302556)
