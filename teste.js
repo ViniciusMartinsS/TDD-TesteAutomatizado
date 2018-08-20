@@ -82,3 +82,5 @@ describe('Vai executar funções assíncronas', () => {
     })
 })
 
+
+//Alteramos o package.json para rodar o script do mocha quando rodar o comando de teste npm teste
